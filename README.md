@@ -6,6 +6,7 @@ DLsite の購入履歴（ボイス・コミック・CG など）を、[Hikidashi
 
 出来上がった CSV は、iPhone アプリ [Hikidashi（引き出し）](https://apps.apple.com/jp/app/hikidashi-%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97/id6823911890) の「設定 → CSV をインポート」で取り込みます。
 ページを 1 つずつ保存するなら、共有シートや Chrome 拡張 [Hikidashi クリップ](https://github.com/nemog9/hikidashi-clip)もあります。
+DMM（FANZA）のマイライブラリを CSV にする、同じ作りのツール [DMM Doujin Exporter](https://github.com/nemog9/dmm-doujin-exporter) もあります。
 
 ## 書き出せるもの
 
